@@ -1,0 +1,6 @@
+torch>=2.0.0
+datasets>=2.14.0
+tokenizers>=0.15.0
+spacy>=3.7.0
+tqdm
+requests
